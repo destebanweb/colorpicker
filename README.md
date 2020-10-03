@@ -8,7 +8,7 @@ It is a full jQuery UI widget, supporting various configurations and themes.
 
 ![screenshot 1](https://raw.github.com/evoluteur/colorpicker/master/screenshot1.png) &nbsp; ![screenshot 2](https://raw.github.com/evoluteur/colorpicker/master/screenshot2.png) &nbsp; ![screenshot 3](https://raw.github.com/evoluteur/colorpicker/master/screenshot3.png)
 
-Check the [online demo](http://evoluteur.github.com/colorpicker/index.html) for several examples.
+Check the [online demo](https://evoluteur.github.com/colorpicker/index.html) for several examples.
 
 ### Table of Contents
 1. [Installation](#Installation)
@@ -31,16 +31,16 @@ Download or fork **evol-colorpicker** at [GitHub](https://github.com/evoluteur/c
 git clone https://github.com/evoluteur/colorpicker
 ```
 
+or use the [npm package](https://www.npmjs.com/package/evol-colorpicker):
+
+```
+npm install evol-colorpicker
+```
+
 or install with Bower:
 
 ```
 bower install evol-colorpicker
-```
-
-or use a [npm package](https://www.npmjs.com/package/evol-colorpicker):
-
-```
-npm install evol-colorpicker
 ```
 
 <a name="Usage"></a>
@@ -92,6 +92,7 @@ Using the same syntax, the widget can also be instanciated on a `<div>` or a `<s
 
 evol-colorpicker is as easily themeable as any jQuery UI widget, using one of the [jQuery UI themes](http://jqueryui.com/themeroller/#themeGallery) or your own custom theme made with [Themeroller](http://jqueryui.com/themeroller/).
 
+![Light and Dark themes](https://raw.github.com/evoluteur/colorpicker/master/screenshots/themes.gif)
 
 <a name="Options"></a>
 
